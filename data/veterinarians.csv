@@ -1,0 +1,5 @@
+vet_id,name,latitude,longitude,service_radius_km,services,available
+VET001,Dr Asha,12.9720,77.5950,15,consultation|vaccination,true
+VET002,Dr Ravi,12.9760,77.6010,12,vaccination|consultation,true
+VET003,Dr Nikhil,12.9220,77.6110,10,consultation,true
+VET004,Dr Mira,19.0765,72.8790,10,consultation,false
