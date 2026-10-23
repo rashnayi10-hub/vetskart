@@ -1,4 +1,4 @@
-# VetsKart | Veterinary Home-Visit Data Engineering Platform
+# VetsKart | On-Demand Veterinary Home-Visit Platform
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ VetsKart is an on-demand veterinary service platform designed to connect pet own
 
 **Live Website:** https://www.vetskart.com/
 
-This repository showcases a Data Engineering implementation inspired by the VetsKart service workflow, focusing on veterinary appointment requests, data processing, and location-based veterinarian matching.
+This repository showcases a portfolio demonstration of the data engineering workflows supporting veterinary appointment requests, location-based provider matching, and appointment coordination. It uses synthetic data and is separate from VetsKart's live production backend.
 
 ## Business Problem
 
